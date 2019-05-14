@@ -16,4 +16,4 @@ in [Style_Transfer_Gatys_CVPR2016.ipynb](https://github.com/abhigoogol/Style-Tra
 * [Pytorch](https://pytorch.org/) framework 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/abhigoogol/Style-Transfer/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/abhigoogol/Style-Transfer/blob/master/LICENSE) file for details.
